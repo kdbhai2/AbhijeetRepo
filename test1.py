@@ -20,3 +20,5 @@ if __name__ == "__main__":
     #width = 6
     #rectangle_area = calculator.calculate_rectangle_area(length, width)
     #print(f"The area of the rectangle with length {length} and width {width} = {rectangle_area}")
+
+#Git fetch test
